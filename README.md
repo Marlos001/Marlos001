@@ -6,9 +6,12 @@
 
 ### Full-stack development, from interface to infrastructure
 
-I'm Marlos, a developer based in **Sao Paulo, Brazil**. I work across web
-applications, backend services, applied AI, and the integrations that connect
-them to real business workflows.
+I'm Marlos, a **21-year-old software engineer** based in **Sao Paulo, Brazil**.
+I work across web applications, backend services, custom AI agent runtimes,
+and the integrations that connect them to real business workflows.
+
+I'm studying at **Inteli**, with expected completion at the **end of 2027**.
+I also completed a **graphic design course in 2018**.
 
 Most of my work lives in **private repositories**. The public projects below
 are a small part of my experience, which also spans business platforms,
@@ -26,9 +29,18 @@ Messaging, financing, and fiscal integrations, with scoped permissions,
 webhook handling, and real-time updates.
 
 **Applied AI & data intelligence**
-<br>Source discovery, data ingestion, LLM-assisted analysis, and background
-processing. Connecting research workflows to reviewable outputs, with attention
-to provenance, retries, and operational visibility.
+<br>Source discovery, Apify collection pipelines, Exa and Perplexity research,
+LLM-assisted analysis, and background processing. Connecting research workflows
+to reviewable outputs, with attention to provenance, retries, and observability.
+
+**Custom AI harnesses & copilots**
+<br>Building much of the harness directly in TypeScript around model APIs:
+agent execution loops, typed tool contracts, domain context, skills, streaming,
+conversation persistence, context pruning and compaction, and delegated tasks.
+Permission and approval flows, cancellation and recovery, token/cost budgets,
+tool-result validation, and regression/evaluation workflows are part of the
+runtime, not just the chat interface. Other projects also use Mastra,
+Vercel AI SDK, Composio, and MCP integrations.
 
 **Reporting & document automation**
 <br>PDF and spreadsheet exports, template-based documents, data reconciliation,
@@ -36,22 +48,35 @@ and evidence-linked reporting. Work on preserving source data and making
 large reporting workflows more reliable.
 
 **Product engineering & delivery**
-<br>React workspaces, typed APIs, PostgreSQL migrations, automated tests, and
-CI/CD. Hands-on work with containerized services, Google Cloud, Railway,
-and debugging across frontend, backend, and infrastructure.
+<br>React, Next.js, and Angular applications; typed APIs; PostgreSQL and
+TimescaleDB; automated tests; and CI/CD. Hands-on work with Terraform,
+containerized services, Google Cloud, AWS, Azure, Railway, and Render,
+including debugging across frontend, backend, and infrastructure.
 
 ### Stack I work with
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img alt="TypeScript, React, Node.js, PostgreSQL, Docker, Google Cloud, Python, and GitHub Actions" src="./assets/stack-light.svg" width="440">
+  <img alt="TypeScript, JavaScript, Python, React, Next.js, Angular, Tailwind CSS, Vite, Node.js, Bun, NestJS, PostgreSQL, MongoDB, Redis, Docker, Terraform, Google Cloud, AWS, Azure, Cloudflare, GitHub Actions, Linux, Prisma, and FastAPI" src="./assets/stack-light.svg" width="440">
 </picture>
 
-**Frontend:** TypeScript, React, React Router, Tailwind CSS, Vite.
-<br>**Backend & data:** Node.js, Bun, Hono, Elysia, PostgreSQL, Drizzle, Redis.
-<br>**Delivery & tooling:** Docker, GitHub Actions, Google Cloud, Railway,
-Python, Playwright, Vitest, MCP, Linux.
+**Languages:** TypeScript, JavaScript, Python, SQL, Bash.
+<br>**Frontend:** React, Next.js, Angular, React Router, RxJS, Tailwind CSS,
+Vite, TanStack Query/Table, Zustand, shadcn/ui, Radix UI, Tiptap, Three.js.
+<br>**Backend:** Node.js, Bun, NestJS, Express, Fastify, Hono, Elysia, FastAPI.
+<br>**Data:** PostgreSQL, TimescaleDB, MongoDB, Redis, SQLite/libSQL, DuckDB,
+Firestore, Cosmos DB; Drizzle, Prisma, Sequelize, Mongoose.
+<br>**AI & collection:** Custom agent harnesses, model APIs, OpenRouter,
+Mastra, Vercel AI SDK, MCP, Composio, Apify, Exa, Perplexity,
+Playwright, Stagehand.
+<br>**Cloud & infrastructure:** Terraform, Docker, AWS CDK, Google Cloud,
+AWS, Azure, Cloudflare R2, Railway, Render, GitHub Actions, Linux.
+<br>**Quality & operations:** Bun Test, Vitest, Jest, pytest, Playwright,
+Testing Library, Biome, ESLint, OpenTelemetry, Sentry, Pino, Laminar.
+
+[Full technology map](./TECHNOLOGIES.md), including cloud services,
+authentication, queues, document/media tooling, and earlier projects.
 
 ### A few public projects
 

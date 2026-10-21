@@ -15,8 +15,10 @@ reflects technologies used in project work, not a language-ranking algorithm.
 - [Official usage and theme documentation](https://github.com/tandpfun/skill-icons#themed-icons)
 - [MIT license](https://github.com/tandpfun/skill-icons/blob/7f7e691e71aec64e8354bf697835e009d1ad80f8/LICENSE)
 - Local notice: `assets/LICENSE.skill-icons`.
-- Generated from `skillicons.dev` with `i=ts,react,nodejs,postgres,docker,gcp,py,githubactions`,
-  `perline=8`, and separate `light` and `dark` themes.
+- Generated from `skillicons.dev` with
+  `i=ts,js,py,react,nextjs,angular,tailwind,vite,nodejs,bun,nestjs,postgres,mongodb,redis,docker,terraform,gcp,aws,azure,cloudflare,githubactions,linux,prisma,fastapi`,
+  `perline=8`, and separate `light` and `dark` themes. The text and
+  `TECHNOLOGIES.md` also cover tools that do not appear in the icon grid.
 
 ### Contribution artwork
 
