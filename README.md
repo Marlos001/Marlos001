@@ -56,9 +56,9 @@ including debugging across frontend, backend, and infrastructure.
 ### Stack I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img alt="TypeScript, JavaScript, Python, React, Next.js, Angular, Tailwind CSS, Vite, Node.js, Bun, NestJS, PostgreSQL, MongoDB, Redis, Docker, Terraform, Google Cloud, AWS, Azure, Cloudflare, GitHub Actions, Linux, Prisma, and FastAPI" src="./assets/stack-light.svg" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg?v=2">
+  <img alt="TypeScript, JavaScript, Python, React, Next.js, Angular, Tailwind CSS, Vite, Node.js, Bun, NestJS, PostgreSQL, MongoDB, Redis, Docker, Terraform, Google Cloud, AWS, Azure, Cloudflare, GitHub Actions, Linux, Prisma, and FastAPI" src="./assets/stack-light.svg?v=2" width="440">
 </picture>
 
 **Languages:** TypeScript, JavaScript, Python, SQL, Bash.
