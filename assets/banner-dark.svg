@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Marlos Guedes</title>
+  <desc id="desc">Developer tools and useful automation. A typographic banner with a colorful code symbol.</desc>
+  <rect width="1200" height="360" rx="8" fill="#1b2028"/>
+  <path d="M0 8Q0 0 8 0H400V8Z" fill="#ff9487"/>
+  <path d="M400 0H800V8H400Z" fill="#6ed8cb"/>
+  <path d="M800 0H1192Q1200 0 1200 8H800Z" fill="#b9a2f5"/>
+  <g font-family="Arial, Helvetica, sans-serif" letter-spacing="0">
+    <text x="58" y="146" font-size="83" font-weight="700" fill="#f2f5f8">Marlos Guedes</text>
+    <text x="62" y="207" font-size="30" fill="#b7c3d0">Developer tools &amp; useful automation.</text>
+    <text x="62" y="300" font-size="22" fill="#b7c3d0">Python</text>
+    <text x="168" y="300" font-size="22" fill="#6ed8cb">/</text>
+    <text x="195" y="300" font-size="22" fill="#b7c3d0">MCP</text>
+    <text x="270" y="300" font-size="22" fill="#ff9487">/</text>
+    <text x="297" y="300" font-size="22" fill="#b7c3d0">Linux</text>
+  </g>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter" stroke-width="12">
+    <path d="M963 103L921 145L963 187" stroke="#6ed8cb"/>
+    <path d="M1081 103L1123 145L1081 187" stroke="#b9a2f5"/>
+    <path d="M1041 92L1003 198" stroke="#ff9487"/>
+  </g>
+  <path d="M921 242H1123" stroke="#3d4855" stroke-width="2"/>
+  <path d="M921 266H970" stroke="#6ed8cb" stroke-width="8"/>
+  <path d="M983 266H1041" stroke="#ff9487" stroke-width="8"/>
+  <path d="M1054 266H1123" stroke="#b9a2f5" stroke-width="8"/>
+</svg>
