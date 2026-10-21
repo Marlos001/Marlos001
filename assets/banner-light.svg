@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Marlos Guedes</title>
-  <desc id="desc">Developer tools and useful automation. A typographic banner with a colorful code symbol.</desc>
+  <desc id="desc">Full-stack software and applied AI. A typographic banner with a colorful code symbol.</desc>
   <rect width="1200" height="360" rx="8" fill="#eef5fc"/>
   <path d="M0 8Q0 0 8 0H400V8Z" fill="#d34e43"/>
   <path d="M400 0H800V8H400Z" fill="#087f83"/>
   <path d="M800 0H1192Q1200 0 1200 8H800Z" fill="#7362be"/>
   <g font-family="Arial, Helvetica, sans-serif" letter-spacing="0">
     <text x="58" y="146" font-size="83" font-weight="700" fill="#18292e">Marlos Guedes</text>
-    <text x="62" y="207" font-size="30" fill="#405a67">Developer tools &amp; useful automation.</text>
-    <text x="62" y="300" font-size="22" fill="#405a67">Python</text>
-    <text x="168" y="300" font-size="22" fill="#087f83">/</text>
-    <text x="195" y="300" font-size="22" fill="#405a67">MCP</text>
-    <text x="270" y="300" font-size="22" fill="#d34e43">/</text>
-    <text x="297" y="300" font-size="22" fill="#405a67">Linux</text>
+    <text x="62" y="207" font-size="30" fill="#405a67">Full-stack software &amp; applied AI.</text>
+    <text x="62" y="300" font-size="22" fill="#405a67">TypeScript</text>
+    <text x="192" y="300" font-size="22" fill="#087f83">/</text>
+    <text x="219" y="300" font-size="22" fill="#405a67">React</text>
+    <text x="305" y="300" font-size="22" fill="#d34e43">/</text>
+    <text x="332" y="300" font-size="22" fill="#405a67">PostgreSQL</text>
   </g>
   <g fill="none" stroke-linecap="square" stroke-linejoin="miter" stroke-width="12">
     <path d="M963 103L921 145L963 187" stroke="#087f83"/>
